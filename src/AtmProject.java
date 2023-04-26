@@ -9,6 +9,9 @@ public class AtmProject {
         System.out.println("Git öğrenmek çok kolay");
         //version4
 
+        System.out.println("bir kısım notlar");
+        //byz2
+
     }
 
 }
