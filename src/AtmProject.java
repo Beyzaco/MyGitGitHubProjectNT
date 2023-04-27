@@ -11,6 +11,7 @@ public class AtmProject {
 
         System.out.println("bir kısım notlar");
         //byz2
+        //remoteda değişiklik yaptım
 
     }
 
