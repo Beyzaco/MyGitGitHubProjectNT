@@ -1,2 +1,3 @@
 bazı kodlar
 remoteda yeni kodlar
+burada çakışma olacak
