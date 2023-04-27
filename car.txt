@@ -4,4 +4,5 @@ remoteda yeni kodlar
 bazı kodlar
 
 burada çakışma olacak
+beyza branchi kod yazdı
 
